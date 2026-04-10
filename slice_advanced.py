@@ -3,5 +3,4 @@ def slice_advanced():
     en adelante, tomando uno de cada dos (paso 2).
     """
     texto = input()
-
     print(texto[4::2])
